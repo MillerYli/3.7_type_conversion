@@ -12,7 +12,7 @@ namespace MyNameSpase
             Console.Write("Enter your age: ");
             var age= Console.ReadLine();        //Ввести свой возраст
 
-            Console.Write("Enter your date of birth: ");
+            Console.Write("Enter your date of birth: ");        //Ввести свою дату рождения
             var birthday = Console.ReadLine();
 
             Console.Write("What is your favorite day of week? ");
